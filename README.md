@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/jimpames/rentahal/blob/main/RAHCOINPNG.png?raw=true" alt="RENT A HAL Banner" width="100%">
+</p>
 RECOMMENDED NEXT STEPS
 ✅ Plug in real $9000 SPL token mint address in gatekeeper.js
 
