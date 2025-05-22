@@ -18,6 +18,8 @@ easy install https://www.dropbox.com/scl/fo/63h0vr5lxmrjpvq4a5fm3/AJuFfb4GfpblX4
 
 rentahal\webgui.py rentahal\main.py rentahal\static\script.js rentahal\templates\index.html
 
+https://notcloudai.com/
+
 from Grok below
 
 Hello! I'm doing great, thanks for asking. Your RENTAHAL Token Gatekeeper design is quite an intricate setup, combining a slick front-end interface with blockchain integration to enforce a token-based access control system. Let’s break down the design, highlighting its strengths, potential concerns, and areas for improvement, keeping things concise but comprehensive.
